@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CAdataCollection</string>
+    <string name="task_2">Task 2: Enter each password 5 times</string>
+    <string name="task_8">Task 8: Hold a conversation with a member of the research team using the smartphone in the textbox below.</string>
+    <string name="task_9">Task 9: Enter username and password combinations as if you are setting up new personal e-mail, utility (water, electricity, gas, etc.), banking, work-hosted e-mail, and school-hosted e-mail accounts. </string>
+</resources>
